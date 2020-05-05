@@ -1,0 +1,51 @@
+body{
+  background-color: #d6e6f2;
+  text-align: center;
+}
+h1{
+
+  border-top: 5px dashed #b9d7ea;
+}
+img{
+  border-radius: 100%;
+}
+table.center {
+  color: #769fcd;
+    margin-left:auto;
+    margin-right:auto;
+  }
+ul{
+  text-align: left;
+}
+table{
+  border-collapse:collapse;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #b9d7ea;
+  border-width: 15px;
+  width: 25%;
+}
+.jtabel{
+  font-family:cursive;
+color: #27496d;
+}
+.form{
+  color: #fc7e2f;
+  font-family: monospace;
+}
+
+#judul{
+color:#00a1ab;
+font-family: sans-serif;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+
+}
+a:hover{
+  color: lightblue;
+}
